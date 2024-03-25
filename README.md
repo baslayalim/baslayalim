@@ -9,6 +9,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baslayalim&show_icons=true&locale=en&layout=compact" alt="baslayalim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baslayalim&show_icons=true&locale=en" alt="baslayalim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baslayalim&" alt="baslayalim" /></p>
+ 
 </center>
+
+<center>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baslayalim&" alt="baslayalim" /> </center>
