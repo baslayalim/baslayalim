@@ -5,6 +5,9 @@
 
   <b>  DesignPatterns <span style='font-size:30px;'>&#9997;</span> Jwt <span style='font-size:30px;'>&#9997;</span> .Net Core <span style='font-size:30px;'>&#9997;</span> Unit of work <span style='font-size:30px;'>&#9997;</span> Validation <span style='font-size:30px;'>&#9997;</span> Dependency Injection <span style='font-size:30px;'>&#9997;</span> Middleware <span style='font-size:30px;'>&#9997;</span> Exception Handling <span style='font-size:30px;'>&#9997;</span> .net core Cors <span style='font-size:30px;'>&#9997;</span> Mssql <span style='font-size:30px;'>&#9997;</span> Solid  <span style='font-size:30px;'>&#9997;</span> Microsoft Dynamics Crm </b> </center><br> <br> <br> 
 
+
+  <center> <b> İşe giriş ve Mülakat için Örnek Projem => <a href="https://github.com/baslayalim/CaseStudy"> Tüm Teknik Yöntemlerin Kullanıldığı 105 Commitli Projemi İnceleyebilirsiniz </a> </b> <br> <br> </center>
+
   <b> Case Study Project => <a href="https://github.com/baslayalim/CaseStudy"> Project </a> </b> <br> <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baslayalim&show_icons=true&locale=en&layout=compact" alt="baslayalim" /></p>
